@@ -1,7 +1,10 @@
 # RegressaoGasesPoluentes-CDD
 Um repositório simples com o código utilizado para o artigo de regressão linear em gases poluentes.
 
-Para utilizaçãp do código (muito provavelmente pelo professor) aqui um passo a passo resumido:
+Para utilização do código (muito provavelmente pelo professor) aqui um passo a passo resumido:
+
+Arquivo executável: https://drive.google.com/file/d/1jYb9L3j7Qb8E-BOTtFFBJTAfBvtGA1GW/view?usp=sharing
+Só baixar e executar!
 
 Estou tentando fazer um .exe executável, se no momento que baixar esse repositório já existir um arquivo do tipo, poderá desconsiderar os textos abaixo, apenas rodar o arquivo "trabalho"
 
